@@ -20,8 +20,5 @@ In this project, I conducted sentiment analysis on a large dataset of social med
 
 Feel free to reach out to me if you have any questions or if you're interested in collaborating on data science projects. You can connect with me through the following channels:
 
-- Email: [neeliharitha@example.com](mailto:neeliharitha@example.com)
-- LinkedIn: [Neeliharitha](https://www.linkedin.com/in/neeliharitha/)
-- Twitter: [@neeliharitha](https://twitter.com/neeliharitha)
-
+- Email: neeliharithaiist@gmail.com
 I'm always eager to learn and contribute to the data science community. Let's connect and explore the exciting world of data together!
